@@ -16,7 +16,7 @@ I have drawn interests from data visualization such as [Tinder Insights](https:/
 
 There will be a box series plot based on what you choose. I have only created the average response time option as of now (will create the average word count later). 
 
-Boxplot will look like:
+Boxplot will look like (Click image to zoom in):
 
 <img src="Report.png" width="4000">
 
