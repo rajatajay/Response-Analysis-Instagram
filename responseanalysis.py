@@ -140,7 +140,8 @@ def analysis(prepdata, response_time, word_count, user_1, user_2):
 
 
     ax = sns.boxplot(data = final_2, width = 0.5, showfliers=False)
-    title = user_2 + ' Response Analysis'
+    #title = user_2 + ' Response Analysis'
+    title = 'Your Friends' + ' Response Analysis'
     ax.set_title(title, fontsize=40)
     ax.tick_params(axis='x', rotation= 90)
     # ax.set(xlabel='Date', ylabel='Response Time ')
@@ -150,7 +151,7 @@ def analysis(prepdata, response_time, word_count, user_1, user_2):
     ax.grid(b=True, which='major', color='black', linewidth=0.075)
     ax.grid(b=True, which='minor', color='black', linewidth=0.075)
 
-    plt.savefig(user_2 + '.png', dpi=300)
+    plt.savefig(user_2 + '.png', dpi= 300) #default dpi at 300
 
 def calc(x, a, df, calc_w_list, calc_dif_list):
     sum = 0
