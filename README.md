@@ -18,7 +18,7 @@ There will be a box series plot based on what you choose. I have only created th
 
 Boxplot will look like:
 
-![](https://i.imgur.com/Wc2hn2F.png)
+![](Report.png)
 
 
 ## Important Note
