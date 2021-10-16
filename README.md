@@ -18,7 +18,7 @@ There will be a box series plot based on what you choose. I have only created th
 
 Boxplot will look like:
 
-<img src="Report.png" width="4000">
+<img src="Report.png"  width = "4000">
 
 ## Important Note
 
