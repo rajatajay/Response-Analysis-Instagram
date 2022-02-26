@@ -8,9 +8,9 @@ Upload the json file of your chat/messages of you and your friend, and there wil
 
 I decided to do something that isn't commonly seen. After browsing through Reddit forums on portfolio discussions it seems that everyone is tired of IMDB, Twitter, and COVID-19 related Data projects. 
 
-I have drawn interests from data visualization such as [Tinder Insights](https://tinderinsights.com/) and [Instagram Insights](https://help.instagram.com/1533933820244654). Additionally, this is an entry project on text analytics for me as I would like to explore (or replicate) [Instagram's text analytics for product suggestion](https://www.forbes.com/sites/zakdoffman/2020/08/16/why-you-should-not-use-facebooks-new-instagram-messenger-whatsapp-iphone-android-security-warning/)
+I have drawn interests from data visualization such as [Tinder Insights](https://tinderinsights.com/) and [Instagram Insights](https://help.instagram.com/1533933820244654). Additionally, this is an entry project on text analytics for me as I would like to explore (or replicate) [Instagram's text analytics for product suggestion](https://www.forbes.com/sites/zakdoffman/2020/08/16/why-you-should-not-use-facebooks-new-instagram-messenger-whatsapp-iphone-android-security-warning/).
 
-**I would like to emphasis the fact that this is of personal use and if you are ethically and morally responsible for the use of this code. I have only tested this code with one of my friends after recieving their consent.**
+**I would like to emphasis the fact that this is of personal use and you are ethically and morally responsible for the use of this code. I have only tested this code with one of my friends after recieving their consent.**
 
 ## Output
 
